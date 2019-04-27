@@ -1,0 +1,1 @@
+# Fun in console
